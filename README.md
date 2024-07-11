@@ -12,6 +12,6 @@
 4. Result: finally I got The accuracy of the model is 81.64% by using Random forest Regressor algorithm
 5.Usecase: The model outcome could help to predict the air quality on the basis of AQI value.i developed a model that is capable of predicting most accurate results of a particular area.finally I
 can conclude that
-  o Predicting Air Quality Index using Machine Learning is easy to implement. 
-  o It reduces the time and manual work.
-  o It includes taking input as different pollutants and displays the level of air quality.
+  * Predicting Air Quality Index using Machine Learning is easy to implement. 
+  * It reduces the time and manual work.
+  * It includes taking input as different pollutants and displays the level of air quality.
